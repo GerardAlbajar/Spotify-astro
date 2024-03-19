@@ -17,22 +17,13 @@ Welcome to the Spotify Clone project! This project aims to replicate the functio
 
 git clone https://github.com/yourusername/spotify-clone.git
 
-csharp
-Copy code
-
 2. Navigate into the project directory:
 
 cd spotify-clone
 
-markdown
-Copy code
-
 3. Install dependencies:
 
 npm install
-
-shell
-Copy code
 
 ## Usage
 
@@ -42,9 +33,6 @@ To start the development server:
 
 npm run dev
 
-css
-Copy code
-
 This command will launch the project in development mode, allowing you to make changes and see them reflected in real-time.
 
 ### Building
@@ -53,9 +41,6 @@ To build the project for production:
 
 npm run build
 
-bash
-Copy code
-
 This command will generate a production-ready build of the project.
 
 ### Preview
@@ -63,9 +48,6 @@ This command will generate a production-ready build of the project.
 To preview the production build locally:
 
 npm run preview
-
-vbnet
-Copy code
 
 This command will serve the production build locally, allowing you to test it before deployment.
 
